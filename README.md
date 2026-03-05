@@ -3,7 +3,7 @@
 This repository contains my Python full stack coursework, organized by day-wise tasks.
 
 ## Day 1
-- day 1/print_statement.py **print_statement.py**: Basic print statement examples in Python.
+- **print_statement.py**: Basic print statement examples in Python.
 
 ## Day 2
 - **Conversion.py**: Simple data type conversion examples (int, float, str, bool).
