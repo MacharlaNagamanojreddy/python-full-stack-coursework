@@ -12,5 +12,9 @@ This repository contains my Python full stack coursework, organized by day-wise 
   - [details.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%202/details.py): Student profile details printed using Python.
   - [variable.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%202/variable.py): Variable usage and examples in Python.
 
+## Day 3
+- [day 3 folder](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%203)
+  - [operators.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%203/operators.py): Python operators including arithmetic, comparison, logical, and assignment operators.
+
 ---
 Each folder contains scripts relevant to the day's learning and exercises.
