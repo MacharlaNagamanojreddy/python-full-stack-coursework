@@ -1,30 +1,31 @@
-# Simple Data Type Conversion Examples
+# Age as integer
+age = int(input("Enter age: "))
+print(age)
+age_list = list(map(int, input("Enter ages (space separated): ").split()))
+print(age_list)
 
-# Convert integer to float
-num = 5
-num_float = float(num)
-print("Integer to float:", num_float)
+# Price as float
+price = float(input("Enter price: "))
+print(price)
+price_list = list(map(float, input("Enter prices (space separated): ").split()))
+print(price_list)
 
-# Convert float to integer
-num2 = 3.7
-num2_int = int(num2)
-print("Float to integer:", num2_int)
+# Name as string
+name = input("Enter name: ")
+print(name)
+names_tuple = tuple(input("Enter names (space separated): ").split())
+print(names_tuple)
 
-# Convert integer to string
-num_str = str(num)
-print("Integer to string:", num_str)
+# Set with numbers
+numbers_set = set(map(int, input("Enter numbers for set (space separated): ").split()))
+print(numbers_set)
 
-# Convert string to integer
-str_num = "10"
-int_num = int(str_num)
-print("String to integer:", int_num)
+# Map multiple numbers (float)
+numbers_float = list(map(float, input("Enter float numbers (space separated): ").split()))
+print(numbers_float)
 
-# Convert string to float
-str_float = "2.5"
-float_num = float(str_float)
-print("String to float:", float_num)
+# Dictionary with names and numbers (using eval)
+numbers_dict = eval(input("Enter a dictionary of numbers (e.g. {'manoj': 1, 'bhuvan': 2, 'kushal': 3}): "))
+print(numbers_dict)
 
-# Convert boolean to integer
-bool_val = True
-int_bool = int(bool_val)
-print("Boolean to integer:", int_bool)
+print("All conversions done successfully!")
