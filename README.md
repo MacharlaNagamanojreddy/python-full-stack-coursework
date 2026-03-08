@@ -16,5 +16,9 @@ This repository contains my Python full stack coursework, organized by day-wise 
 - [day 3 folder](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%203)
   - [operators.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%203/operators.py): Python operators including arithmetic, comparison, logical, and assignment operators.
 
+## Day 4
+- [day 4 folder](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%204)
+  - [conditional stmt.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%204/conditional%20stmt.py): Python conditional statements including if, elif, else, and nested conditionals.
+
 ---
 Each folder contains scripts relevant to the day's learning and exercises.
