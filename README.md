@@ -23,7 +23,12 @@ This repository contains Python Full Stack learning materials organized by day/t
 - **conditional stmt.py** - Python conditional statements including if, elif, else, and nested conditionals
 
 ### Day 5 - Control Statements
-- **control statements.py** - Python control statements
+- **control statements.py** - Python control statements covering:
+  - For loops and while loops
+  - Printing numbers from 1 to N
+  - Printing even and odd numbers
+  - Sum of N numbers
+  - Sum of N even numbers
 
 ## 🚀 Getting Started
 
