@@ -1,10 +1,10 @@
-# DSA Coursework
+# Python Full Stack Coursework
 
-A comprehensive Data Structures and Algorithms course with Python implementations.
+A comprehensive Python Full Stack development course covering from basics to advanced topics.
 
 ## 📚 Course Overview
 
-This repository contains DSA learning materials organized by day/topics.
+This repository contains Python Full Stack learning materials organized by day/topics.
 
 ## 📅 Content Structure
 
