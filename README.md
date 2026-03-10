@@ -1,24 +1,75 @@
-# python-full-stack-coursework
+# DSA Coursework
 
-This repository contains my Python full stack coursework, organized by day-wise tasks.
+A comprehensive Data Structures and Algorithms course with Python implementations.
 
-## Day 1
-- [day 1 folder](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%201)
-  - [print_statement.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%201/print_statement.py): Basic print statement examples in Python.
+## 📚 Course Overview
 
-## Day 2
-- [day 2 folder](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%202)
-  - [Conversion.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%202/Conversion.py): Simple data type conversion examples (int, float, str, bool).
-  - [details.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%202/details.py): Student profile details printed using Python.
-  - [variable.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%202/variable.py): Variable usage and examples in Python.
+This repository contains DSA learning materials organized by day/topics.
 
-## Day 3
-- [day 3 folder](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%203)
-  - [operators.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%203/operators.py): Python operators including arithmetic, comparison, logical, and assignment operators.
+## 📅 Content Structure
 
-## Day 4
-- [day 4 folder](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%204)
-  - [conditional stmt.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%204/conditional%20stmt.py): Python conditional statements including if, elif, else, and nested conditionals.
+### Day 1 - Print Statements
+- **print_statement.py** - Basic print statement examples in Python
+
+### Day 2 - Variables & Conversions
+- **variable.py** - Variable usage and examples in Python
+- **Conversion.py** - Simple data type conversion examples (int, float, str, bool)
+- **details.py** - Student profile details printed using Python
+
+### Day 3 - Operators
+- **operators.py** - Python operators including arithmetic, comparison, logical, and assignment operators
+
+### Day 4 - Conditional Statements
+- **conditional stmt.py** - Python conditional statements including if, elif, else, and nested conditionals
+
+### Day 5 - Control Statements
+- **control statements.py** - Python control statements
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MacharlaNagamanojreddy/DSA-corusework.git
+   ```
+
+2. Navigate to the directory:
+   ```bash
+   cd DSA-corusework
+   ```
+
+3. Run Python files:
+   ```bash
+   python3 day%201/print_statement.py
+   python3 day%202/variable.py
+   python3 day%202/Conversion.py
+   python3 day%202/details.py
+   python3 day%203/operators.py
+   python3 day%204/conditional%20stmt.py
+   python3 day%205/control%20statements.py
+   ```
+
+## 📝 Requirements
+
+- Python 3.x
+
+## 🔧 How to Contribute
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+MIT License
 
 ---
-Each folder contains scripts relevant to the day's learning and exercises.
+
+## 👤 Owner
+
+Macharla Nagamanojreddy
+
+- GitHub: [MacharlaNagamanojreddy](https://github.com/MacharlaNagamanojreddy)
+- LinkedIn: [Manoj Reddy Macharla](https://www.linkedin.com/in/manoj-reddy-macharla-8a9888258/)
+
