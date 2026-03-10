@@ -6,6 +6,29 @@ A comprehensive Python Full Stack development course covering from basics to adv
 
 This repository contains Python Full Stack learning materials organized by day/topics.
 
+## 📋 Table of Contents
+
+- [Prerequisites](#-prerequisites)
+- [Content Structure](#-content-structure)
+  - [Day 1 - Print Statements](#day-1---print-statements)
+  - [Day 2 - Variables & Conversions](#day-2---variables--conversions)
+  - [Day 3 - Operators](#day-3---operators)
+  - [Day 4 - Conditional Statements](#day-4---conditional-statements)
+  - [Day 5 - Control Statements](#day-5---control-statements)
+- [Getting Started](#-getting-started)
+- [Requirements](#-requirements)
+- [How to Contribute](#-how-to-contribute)
+- [Owner](#-owner)
+
+## 📋 Prerequisites
+
+Before starting this course, ensure you have the following:
+
+- **Python 3.x** - Download from [python.org](https://www.python.org/downloads/)
+- **Code Editor** - Recommended: VS Code, PyCharm, or any text editor
+- **Basic Computer Skills** - Familiarity with operating system commands
+- **Terminal/Command Line** - Basic knowledge of command line interface
+
 ## 📅 Content Structure
 
 ### Day 1 - Print Statements
@@ -30,12 +53,12 @@ This repository contains Python Full Stack learning materials organized by day/t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MacharlaNagamanojreddy/DSA-corusework.git
+   git clone https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework.git
    ```
 
 2. Navigate to the directory:
    ```bash
-   cd DSA-corusework
+   cd python-full-stack-coursework
    ```
 
 3. Run Python files:
@@ -61,12 +84,6 @@ This repository contains Python Full Stack learning materials organized by day/t
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-MIT License
-
----
 
 ## 👤 Owner
 
