@@ -24,6 +24,7 @@ This repository contains Python Full Stack learning materials organized by day/t
 
 ### Day 5 - Control Statements
 - **control statements.py** - Python control statements covering for loops and while loops
+- **Classwork_loops.py** - Additional loop practice exercises and examples
 
 ## 🚀 Getting Started
 
@@ -46,6 +47,7 @@ This repository contains Python Full Stack learning materials organized by day/t
    python3 day%203/operators.py
    python3 day%204/conditional%20stmt.py
    python3 day%205/control%20statements.py
+   python3 day%205/Classwork_loops.py
    ```
 
 ## 📝 Requirements
