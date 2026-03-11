@@ -14,7 +14,7 @@ This repository contains Python Full Stack learning materials organized by day/t
   - [Day 2 - Variables & Conversions](#day-2---variables--conversions)
   - [Day 3 - Operators](#day-3---operators)
   - [Day 4 - Conditional Statements](#day-4---conditional-statements)
-- [Day 5 - Control Statements](#day-5---control-statements)
+  - [Day 5 - Control Statements](#day-5---control-statements)
   - [Day 6 - Loops](#day-6---loops)
 - [Getting Started](#-getting-started)
 - [Requirements](#-requirements)
