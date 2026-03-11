@@ -11,8 +11,8 @@ while bullet > 0:
     else:
         print("Invalid input. Please enter 'yes' or 'no'.")
 print("Bullet is empty. Game over!")
-'''
-'''
+
+
 #candycrush game so when moves are done and then the game will be over i need tho slect which side to move where i can select up down left right and then the moves will be reduced by one and when moves are zero then the game will be over
 moves = 5
 while moves > 0:'
@@ -24,8 +24,7 @@ while moves > 0:'
     else:
         print("Invalid move. Please enter 'up', 'down', 'left', or 'right'.")
 print("No moves left. Game over!")
-'''
-'''
+
 #using an for loop taking student attendance like in need for an dictionary to store the data of student name age class and attendance and then print the attendance of the student
 students = {
     "Manoj": {"age": 20, "class": "10th", "attendance": []},
@@ -50,9 +49,13 @@ for student in students:
     name = student
     attendance = students[student]["attendance"]
     print(f"{name}: {', '.join(attendance)}")
-'''
-#declaring a list of names and then using a for loop to print the names in the list
+
+#declaring a list of names and then using a for loop to print the names in the list without using the index of the list and then print the names in the list with the index of the list
 names = ["Manoj", "Bob", "Bhuvan"]
+print("Names without index:")
 for name in names:
     print(name)
-    
+print("\nNames with index:")
+for index, name in enumerate(names):
+    print(f"{index}: {name}")
+'''
