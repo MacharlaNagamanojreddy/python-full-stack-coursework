@@ -26,67 +26,17 @@ Before starting this course, ensure you have the following:
 
 ## 📅 Content Structure
 
-### Day 1 - Print Statements
-**File:** `day 1/print_statement.py`
+**Day 1 - Print Statements** (`day 1/print_statement.py`): Basic print statements, printing strings and variables, string formatting, print with separators and end parameters.
 
-Learn the basics of Python output using print statements. This module covers:
-- Basic print statements
-- Printing strings and variables
-- String formatting
-- Print with separators and end parameters
+**Day 2 - Variables & Conversions** (`day 2/variable.py`, `day 2/Conversion.py`, `day 2/details.py`): Variable declaration and naming conventions, data types (integers, floats, strings, booleans), type conversion functions, working with user input.
 
-### Day 2 - Variables & Conversions
-**Files:**
-- `day 2/variable.py` - Variable usage and examples in Python
-- `day 2/Conversion.py` - Simple data type conversion examples (int, float, str, bool)
-- `day 2/details.py` - Student profile details printed using Python
+**Day 3 - Operators** (`day 3/operators.py`): Arithmetic operators (+, -, *, /, %, //, **), comparison operators (==, !=, <, >, <=, >=), logical operators (and, or, not), assignment operators (=, +=, -=, *=, /=), identity and membership operators.
 
-This module covers:
-- Variable declaration and naming conventions
-- Data types: integers, floats, strings, booleans
-- Type conversion functions
-- Working with user input
+**Day 4 - Conditional Statements** (`day 4/conditional stmt.py`): if statements, elif statements, else statements, nested conditionals, multiple conditions with logical operators.
 
-### Day 3 - Operators
-**File:** `day 3/operators.py`
+**Day 5 - Control Statements** (`day 5/control statements.py`, `day 5/Classwork_loops.py`): For loops with range(), while loops, loop control with break and continue, nested loops, loop else clauses.
 
-Python operators including:
-- Arithmetic operators (+, -, *, /, %, //, **)
-- Comparison operators (==, !=, <, >, <=, >=)
-- Logical operators (and, or, not)
-- Assignment operators (=, +=, -=, *=, /=)
-- Identity and membership operators
-
-### Day 4 - Conditional Statements
-**File:** `day 4/conditional stmt.py`
-
-Python conditional statements including:
-- if statements
-- elif statements
-- else statements
-- Nested conditionals
-- Multiple conditions with logical operators
-
-### Day 5 - Control Statements
-**Files:**
-- `day 5/control statements.py` - Python control statements covering for loops and while loops
-- `day 5/Classwork_loops.py` - Additional loop practice exercises and examples
-
-This module covers:
-- For loops with range()
-- While loops
-- Loop control with break and continue
-- Nested loops
-- Loop else clauses
-
-### Day 6 - Loops
-**File:** `day 6/examples loops.py`
-
-Advanced loop examples and practice exercises including:
-- Complex loop patterns
-- Loop applications (games, simulations)
-- Iterating over different data structures
-- Practical loop problems
+**Day 6 - Loops** (`day 6/examples loops.py`): Complex loop patterns, loop applications (games, simulations), iterating over different data structures, practical loop problems.
 
 ## 🚀 Getting Started
 
