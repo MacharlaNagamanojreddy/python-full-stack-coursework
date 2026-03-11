@@ -73,7 +73,7 @@ Before starting this course, ensure you have the following:
    python3 day%202/details.py
    python3 day%203/operators.py
    python3 day%204/conditional%20stmt.py
-python3 day%205/control%20statements.py
+   python3 day%205/control%20statements.py
    python3 day%205/Classwork_loops.py
    python3 day%206/examples%20loops.py
    ```
