@@ -16,7 +16,7 @@ print("Bullet is empty. Game over!")
 #candycrush game so when moves are done and then the game will be over i need tho slect which side to move where i can select up down left right and then the moves will be reduced by one and when moves are zero then the game will be over
 moves = 5
 while moves > 0:'
-    print(f"Moves left: {moves}")
+    print(f"Moves inset-inline-start: {moves}")
     move = input("Enter your move (up/down/left/right): ")
     if move.lower() in ["up", "down", "left", "right"]:
         moves -= 1
