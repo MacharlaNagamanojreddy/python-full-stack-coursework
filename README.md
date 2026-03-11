@@ -14,7 +14,8 @@ This repository contains Python Full Stack learning materials organized by day/t
   - [Day 2 - Variables & Conversions](#day-2---variables--conversions)
   - [Day 3 - Operators](#day-3---operators)
   - [Day 4 - Conditional Statements](#day-4---conditional-statements)
-  - [Day 5 - Control Statements](#day-5---control-statements)
+- [Day 5 - Control Statements](#day-5---control-statements)
+  - [Day 6 - Loops](#day-6---loops)
 - [Getting Started](#-getting-started)
 - [Requirements](#-requirements)
 - [How to Contribute](#-how-to-contribute)
@@ -49,6 +50,9 @@ Before starting this course, ensure you have the following:
 - **control statements.py** - Python control statements covering for loops and while loops
 - **Classwork_loops.py** - Additional loop practice exercises and examples
 
+### Day 6 - Loops
+- **examples loops.py** - Advanced loop examples and practice exercises
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
@@ -69,8 +73,9 @@ Before starting this course, ensure you have the following:
    python3 day%202/details.py
    python3 day%203/operators.py
    python3 day%204/conditional%20stmt.py
-   python3 day%205/control%20statements.py
+python3 day%205/control%20statements.py
    python3 day%205/Classwork_loops.py
+   python3 day%206/examples%20loops.py
    ```
 
 ## 📝 Requirements
