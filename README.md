@@ -26,17 +26,17 @@ Before starting this course, ensure you have the following:
 
 ## 📅 Content Structure
 
-**Day 1 - Print Statements** (`day 1/print_statement.py`): Basic print statements, printing strings and variables, string formatting, print with separators and end parameters.
+**Day 1 - Print Statements** ([day 1/print_statement.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%201/print_statement.py)): Basic print statements, printing strings and variables, string formatting, print with separators and end parameters.
 
-**Day 2 - Variables & Conversions** (`day 2/variable.py`, `day 2/Conversion.py`, `day 2/details.py`): Variable declaration and naming conventions, data types (integers, floats, strings, booleans), type conversion functions, working with user input.
+**Day 2 - Variables & Conversions** ([day 2/](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%202): [variable.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%202/variable.py), [Conversion.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%202/Conversion.py), [details.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%202/details.py)): Variable declaration and naming conventions, data types (integers, floats, strings, booleans), type conversion functions, working with user input.
 
-**Day 3 - Operators** (`day 3/operators.py`): Arithmetic operators (+, -, *, /, %, //, **), comparison operators (==, !=, <, >, <=, >=), logical operators (and, or, not), assignment operators (=, +=, -=, *=, /=), identity and membership operators.
+**Day 3 - Operators** ([day 3/operators.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%203/operators.py)): Arithmetic operators (+, -, *, /, %, //, **), comparison operators (==, !=, <, >, <=, >=), logical operators (and, or, not), assignment operators (=, +=, -=, *=, /=), identity and membership operators.
 
-**Day 4 - Conditional Statements** (`day 4/conditional stmt.py`): if statements, elif statements, else statements, nested conditionals, multiple conditions with logical operators.
+**Day 4 - Conditional Statements** ([day 4/conditional stmt.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%204/conditional%20stmt.py)): if statements, elif statements, else statements, nested conditionals, multiple conditions with logical operators.
 
-**Day 5 - Control Statements** (`day 5/control statements.py`, `day 5/Classwork_loops.py`): For loops with range(), while loops, loop control with break and continue, nested loops, loop else clauses.
+**Day 5 - Control Statements** ([day 5/](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%205): [control statements.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%205/control%20statements.py), [Classwork_loops.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%205/Classwork_loops.py)): For loops with range(), while loops, loop control with break and continue, nested loops, loop else clauses.
 
-**Day 6 - Loops** (`day 6/examples loops.py`): Complex loop patterns, loop applications (games, simulations), iterating over different data structures, practical loop problems.
+**Day 6 - Loops** ([day 6/examples loops.py](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%206/examples%20loops.py)): Complex loop patterns, loop applications (games, simulations), iterating over different data structures, practical loop problems.
 
 ## 🚀 Getting Started
 
