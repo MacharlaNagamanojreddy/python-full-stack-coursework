@@ -32,6 +32,7 @@ Before starting this course, ensure you have the following:
 - **Day 4** - [Conditionals](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%204/conditional%20stmt.py): if, elif, else, nested
 - **Day 5** - [Control Statements](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%205): for loops, while loops, break, continue
 - **Day 6** - [Loops](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%206/examples%20loops.py): patterns, applications, practice
+- **Day 7** - [Grocery Billing](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%207/grocery.py): simplified app with dicts/loops/lists (beginner-friendly)
 
 ## 🚀 Getting Started
 
