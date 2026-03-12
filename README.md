@@ -57,6 +57,7 @@ Before starting this course, ensure you have the following:
    python3 day%205/control%20statements.py
    python3 day%205/Classwork_loops.py
    python3 day%206/examples%20loops.py
+   python3 day%207/grocery.py
    ```
 
 ## 📝 Requirements
@@ -85,6 +86,6 @@ This coursework is designed to take you from Python beginner to comfortable with
 1. **Day 1-2:** Basics (output, variables, data types)
 2. **Day 3:** Operators and expressions
 3. **Day 4:** Decision making (conditionals)
-4. **Day 5-6:** Iteration and repetition (loops)
+4. **Day 5-7:** Iteration, loops, real apps (grocery billing with dicts/lists)
 
 Happy Learning! 🚀
