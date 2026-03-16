@@ -1,1 +1,0 @@
-# README Update Progress\n\n- [x] Plan confirmed (add Day 8 + full updates)\n- [x] Updated README.md (added badges, Day 8 table entry/run commands, local links, table format, progress section, full file list)\n\n**Complete.** Delete this file if satisfied.
