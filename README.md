@@ -1,10 +1,15 @@
 # Python Full Stack Coursework
 
-A comprehensive Python Full Stack development course covering from basics to advanced topics.
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A comprehensive **Python Full Stack development course** covering basics to practical applications.
 
 ## 📚 Course Overview
 
-This repository contains Python Full Stack learning materials organized by day/topics. Each day focuses on different fundamental concepts of Python programming, progressing from basic syntax to more complex control structures.
+This repository contains daily Python learning materials organized by **day/topics**. Progresses from basic syntax (print, variables) to control structures (loops, conditionals) and real-world apps (grocery billing, calculator, e-commerce).
+
+**Current Progress**: Completed through **Day 8** 🚀
 
 ## 📋 Table of Contents
 
@@ -17,47 +22,46 @@ This repository contains Python Full Stack learning materials organized by day/t
 
 ## 📋 Prerequisites
 
-Before starting this course, ensure you have the following:
-
-- **Python 3.x** - Download from [python.org](https://www.python.org/downloads/)
-- **Code Editor** - Recommended: VS Code, PyCharm, or any text editor
-- **Basic Computer Skills** - Familiarity with operating system commands
-- **Terminal/Command Line** - Basic knowledge of command line interface
+- **Python 3.x** - [Download](https://www.python.org/downloads/)
+- **Code Editor** - VS Code, PyCharm, or any text editor
+- **Terminal Basics** - Familiarity with command line
 
 ## 📅 Content Structure
 
-- **Day 1** - [Print Statements](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%201/print_statement.py): print, strings, formatting
-- **Day 2** - [Variables & Conversions](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%202): variables, data types, type conversion
-- **Day 3** - [Operators](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%203/operators.py): arithmetic, comparison, logical, assignment
-- **Day 4** - [Conditionals](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%204/conditional%20stmt.py): if, elif, else, nested
-- **Day 5** - [Control Statements](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/tree/main/day%205): for loops, while loops, break, continue
-- **Day 6** - [Loops](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%206/examples%20loops.py): patterns, applications, practice
-- **Day 7** - [Grocery Billing](https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework/blob/main/day%207/grocery.py): simplified app with dicts/loops/lists (beginner-friendly)
+| Day | Topics & Files | Description |
+|-----|----------------|-------------|
+| **Day 1** | [print_statement.py](day 1/print_statement.py) | Print statements, strings, formatting |
+| **Day 2** | [variable.py](day 2/variable.py), [Conversion.py](day 2/Conversion.py), [details.py](day 2/details.py) | Variables, data types, type conversions |
+| **Day 3** | [operators.py](day 3/operators.py) | Arithmetic, comparison, logical, assignment operators |
+| **Day 4** | [conditional stmt.py](day 4/conditional stmt.py) | if/elif/else, nested conditionals |
+| **Day 5** | [control statements.py](day 5/control statements.py), [Classwork_loops.py](day 5/Classwork_loops.py) | For/while loops, break/continue |
+| **Day 6** | [examples loops.py](day 6/examples loops.py) | Loop patterns, applications, practice |
+| **Day 7** | [grocery.py](day 7/grocery.py), [grocery_simple.py](day 7/grocery_simple.py) | Grocery billing app (lists, dicts, loops) |
+| **Day 8** | [list.py](day 8/list.py), [calculator.py](day 8/calculator.py), [ecommerce.py](day 8/ecommerce.py) | List operations, calculator app, e-commerce simulation |
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+1. **Navigate**:
    ```bash
-   git clone https://github.com/MacharlaNagamanojreddy/python-full-stack-coursework.git
+   cd '/Users/manojreddy/Downloads/Python full stack coursework'
    ```
 
-2. Navigate to the directory:
+2. **Run examples** (use `python3` on macOS):
    ```bash
-   cd python-full-stack-coursework
-   ```
-
-3. Run Python files:
-   ```
-   python3 day%201/print_statement.py
-   python3 day%202/variable.py
-   python3 day%202/Conversion.py
-   python3 day%202/details.py
-   python3 day%203/operators.py
-   python3 day%204/conditional%20stmt.py
-   python3 day%205/control%20statements.py
-   python3 day%205/Classwork_loops.py
-   python3 day%206/examples%20loops.py
-   python3 day%207/grocery.py
+   python3 'day 1/print_statement.py'
+   python3 'day 2/variable.py'
+   python3 'day 2/Conversion.py'
+   python3 'day 2/details.py'
+   python3 'day 3/operators.py'
+   python3 'day 4/conditional stmt.py'
+   python3 'day 5/control statements.py'
+   python3 'day 5/Classwork_loops.py'
+   python3 'day 6/examples loops.py'
+   python3 'day 7/grocery.py'
+   python3 'day 7/grocery_simple.py'
+   python3 'day 8/list.py'
+   python3 'day 8/calculator.py'
+   python3 'day 8/ecommerce.py'
    ```
 
 ## 📝 Requirements
@@ -66,26 +70,30 @@ Before starting this course, ensure you have the following:
 
 ## 🔧 How to Contribute
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the repo
+2. Create branch: `git checkout -b feature/YourFeature`
+3. Commit: `git commit -m 'Add YourFeature'`
+4. Push: `git push origin feature/YourFeature`
+5. Open Pull Request
 
 ## 👤 Owner
 
-Macharla Nagamanojreddy
+**Macharla Nagamanojreddy**
 
 - GitHub: [MacharlaNagamanojreddy](https://github.com/MacharlaNagamanojreddy)
 - LinkedIn: [Manoj Reddy Macharla](https://www.linkedin.com/in/manoj-reddy-macharla-8a9888258/)
 
 ## 📈 Learning Path
 
-This coursework is designed to take you from Python beginner to comfortable with fundamental programming concepts:
+1. **Days 1-2**: Basics (print, variables, types)
+2. **Day 3**: Operators & expressions
+3. **Day 4**: Conditionals
+4. **Days 5-6**: Loops & control flow
+5. **Day 7**: Practical app (grocery billing)
+6. **Day 8**: Advanced apps (calculator, e-commerce, lists)
 
-1. **Day 1-2:** Basics (output, variables, data types)
-2. **Day 3:** Operators and expressions
-3. **Day 4:** Decision making (conditionals)
-4. **Day 5-7:** Iteration, loops, real apps (grocery billing with dicts/lists)
+**Happy Learning!** 🐍✨
 
-Happy Learning! 🚀
+---
+
+*Updated on: $(date)*
