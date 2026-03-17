@@ -9,7 +9,7 @@ A comprehensive **Python Full Stack development course** covering basics to prac
 
 This repository contains daily Python learning materials organized by **day/topics**. Progresses from basic syntax (print, variables) to control structures (loops, conditionals) and real-world apps (grocery billing, calculator, e-commerce).
 
-**Current Progress**: Completed through **Day 8** 🚀
+**Current Progress**: Completed through **Day 9** (Dictionaries) 🚀
 
 ## 📋 Table of Contents
 
@@ -38,6 +38,7 @@ This repository contains daily Python learning materials organized by **day/topi
 | **Day 6** | [examples loops.py](day 6/examples loops.py) | Loop patterns, applications, practice |
 | **Day 7** | [grocery.py](day 7/grocery.py), [grocery_simple.py](day 7/grocery_simple.py) | Grocery billing app (lists, dicts, loops) |
 | **Day 8** | [list.py](day 8/list.py), [calculator.py](day 8/calculator.py), [ecommerce.py](day 8/ecommerce.py) | List operations, calculator app, e-commerce simulation |
+| **Day 9** | [dict.py](day 9/dict.py) | Dictionary operations: access/update/add keys, nested lists, mixed key types (int/float/str/bool/complex), methods (items/keys/values/len/sorted) |
 
 ## 🚀 Getting Started
 
@@ -62,6 +63,7 @@ This repository contains daily Python learning materials organized by **day/topi
    python3 'day 8/list.py'
    python3 'day 8/calculator.py'
    python3 'day 8/ecommerce.py'
+   python3 'day 9/dict.py'
    ```
 
 ## 📝 Requirements
