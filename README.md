@@ -38,7 +38,7 @@ This repository contains daily Python learning materials organized by **day/topi
 | **Day 6** | [examples loops.py](day 6/examples loops.py) | Loop patterns, applications, practice |
 | **Day 7** | [grocery.py](day 7/grocery.py), [grocery_simple.py](day 7/grocery_simple.py) | Grocery billing app (lists, dicts, loops) |
 | **Day 8** | [list.py](day 8/list.py), [calculator.py](day 8/calculator.py), [ecommerce.py](day 8/ecommerce.py) | List operations, calculator app, e-commerce simulation |
-| **Day 9** | [dict.py](day 9/dict.py) | Dictionary operations: access/update/add keys, nested lists, mixed key types (int/float/str/bool/complex), methods (items/keys/values/len/sorted) |
+| **Day 9** | [dict.py](day 9/dict.py), [atm.py](day 9/atm.py) | Dictionary operations: access/update/add keys, nested lists, mixed key types, methods (items/keys/values/len/sorted). ATM app using dicts for accounts/transactions. |
 
 ## 🚀 Getting Started
 
@@ -64,6 +64,7 @@ This repository contains daily Python learning materials organized by **day/topi
    python3 'day 8/calculator.py'
    python3 'day 8/ecommerce.py'
    python3 'day 9/dict.py'
+   python3 'day 9/atm.py'  # Interactive ATM simulator
    ```
 
 ## 📝 Requirements
