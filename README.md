@@ -9,7 +9,7 @@ A comprehensive **Python Full Stack development course** covering basics to prac
 
 This repository contains daily Python learning materials organized by **day/topics**. Progresses from basic syntax (print, variables) to control structures (loops, conditionals) and real-world apps (grocery billing, calculator, e-commerce).
 
-**Current Progress**: Completed through **Day 13** (List Comprehensions) 🚀
+**Current Progress**: Completed through **Day 15** (Snakes &amp; Ladders game) 🚀
 
 ## 📋 Table of Contents
 
@@ -43,6 +43,8 @@ This repository contains daily Python learning materials organized by **day/topi
 | **Day 11** | [passbyvalue.py](day 11/passbyvalue.py), [recursivefunction.py](day 11/recursivefunction.py) | Pass by value/reference, recursion (counting, strings, list sum) |
 | **Day 12** | [lambda.py](day 12/lambda.py) | Lambda functions, map/filter (title, multiples, dict filter) |
 | **Day 13** | [listcomprehension.py](day 13/listcomprehension.py) | List/dict comprehensions, conditional operations, counts |
+| **Day 14** | [module.py](day14/module.py) | Python modules &amp; functions (likes counter, comments list) |
+| **Day 15** | [snake.py](day15/snake.py) | Snakes &amp; Ladders game (2-player, dicts for ladders/snakes, interactive dice rolls) |
 ## 🚀 Getting Started
 
 1. **Navigate**:
@@ -73,6 +75,8 @@ This repository contains daily Python learning materials organized by **day/topi
    python3 'day 11/recursivefunction.py'  # Recursion examples
    python3 'day 12/lambda.py'  # Lambda, map/filter
    python3 'day 13/listcomprehension.py'  # List comprehensions
+   python3 'day14/module.py'  # Modules &amp; functions
+   python3 'day15/snake.py'  # Interactive 2-player Snakes &amp; Ladders (first to 100 wins)
    ```
 
 ## 📝 Requirements
@@ -104,6 +108,7 @@ This repository contains daily Python learning materials organized by **day/topi
 6. **Day 8**: Advanced apps (calculator, e-commerce, lists)
 7. **Days 10-11**: Nested loops, functions, recursion
 8. **Days 12-13**: Lambdas, map/filter, comprehensions
+9. **Days 14-15**: Modules/functions, game development (Snakes &amp; Ladders)
 
 **Happy Learning!** 🐍✨
 
